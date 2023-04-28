@@ -1,16 +1,16 @@
 # fake-reservation-check
 
-it's a project composed of many parts 
+it's a project composed of 4 parts 
 
 
-Report :
+- Report :
 https://github.com/BenHmidaMohammadAli/fake-reservation-check-Report/
 
-BI Project :
+- BI Project :
 https://github.com/BenHmidaMohammadAli/fake-reservation-check-BI/
 
-ML Code :
+- ML Code :
 https://github.com/BenHmidaMohammadAli/fake-reservation-check-ML/
 
-Web Application :
+- Web Application & deployement :
 https://github.com/BenHmidaMohammadAli/fake-reservation-check-WEB/
